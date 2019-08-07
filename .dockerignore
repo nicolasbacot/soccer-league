@@ -1,0 +1,11 @@
+.classpath
+.settings
+clevercloud
+target
+.gitignore
+.travis.yml
+Procfile
+*.adoc
+*.bat
+
+**/node_modules/*
