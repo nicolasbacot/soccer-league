@@ -15,3 +15,7 @@ npm-debug.log
 app/*.js
 app/*.js.map
 .java-version
+setenv.bat
+.classpath
+.settings
+.project
